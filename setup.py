@@ -15,6 +15,5 @@ setup(
     install_requires=[
         "feedparser",
         "praw",
-        "python-daemon"
     ],
 )
